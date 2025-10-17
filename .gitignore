@@ -207,7 +207,6 @@ marimo/_lsp/
 __marimo__/
 task1.md
 .python-version
-pyproject.toml
 task2.md
 task3.md
 hw04.md
