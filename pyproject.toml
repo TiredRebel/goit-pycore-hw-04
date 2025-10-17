@@ -1,7 +1,7 @@
 [project]
 name = "goit-pycore-hw-04"
 version = "0.1.0"
-description = "Add your description here"
+description = "Homework 04 for GoIT Python Core Course"
 readme = "README.md"
 requires-python = ">=3.13.2"
 dependencies = [
